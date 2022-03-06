@@ -1,0 +1,11 @@
+some of the examples of brute force approach are :
+1. Sequencial search 
+2. String Matching alogorithm
+3. Travelling sales man problem
+4. Knapsack problem
+
+Efficiency can be increased by using below algorithms
+
+1. KMP algorithm
+2. Rabir Karp Algorithm
+3. Boyer Moore Algorithm
